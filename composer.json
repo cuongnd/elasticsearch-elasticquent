@@ -1,5 +1,5 @@
 {
-  "name": "elasticsearch-elasticquent",
+  "name": "cuognd-elasticquent",
   "type": "library",
   "description": "Maps Laravel Eloquent models to Elasticsearch types.",
   "keywords": [
